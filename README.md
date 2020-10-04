@@ -3,6 +3,9 @@ pull request yourID ~~and a cross-dressing photo~~
 把你的女装照和id给我康康!  
 （让senbai们认认  
 **请注意:交上flag但没有pr的不算通关**
+请在提交pr之后关注一下自己的pr有没有被merge  
+main分支下是否有自己的文件
+
 ## format
 ```
 yourID
